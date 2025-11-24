@@ -19,3 +19,14 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | SMOTE
 3. Install required packages (if needed):  
 ```bash
 pip install -r requirements.txt
+
+## Plots & Visualizations
+
+### Feature Importance
+![Feature Importance](images/feature_importance.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### Age vs Stroke
+![Age vs Stroke](images/age_vs_stroke.png)
