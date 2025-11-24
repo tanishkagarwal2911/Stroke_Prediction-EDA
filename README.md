@@ -22,5 +22,5 @@ pip install -r requirements.txt
 ```
 ### Plots & Visualizations
 ### Feature Importance
-![Feature Importance](images/Feature_Importances.png)
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Feature Importance](images/Features_Importance.png.png)
+![Correlation Heatmap](images/correlation_heatmap.png.png)
